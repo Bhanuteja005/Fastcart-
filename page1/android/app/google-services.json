@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1044358377208",
+    "project_id": "billinginterface-bfc53",
+    "storage_bucket": "billinginterface-bfc53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044358377208:android:bf6fd50c81be116660150d",
+        "android_client_info": {
+          "package_name": "com.mycompany.page1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044358377208-n92t22pfuhmoe02un9adltr2dd6t2d03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOAaGFJ497fTbwnchU916SU_271_y19Yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044358377208-n92t22pfuhmoe02un9adltr2dd6t2d03.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1044358377208-4pl0fi5ke84gkjoqsopcp4ei6id941jk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.page1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
